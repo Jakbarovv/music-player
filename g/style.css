@@ -1,0 +1,126 @@
+header{
+    width: 1440px;
+    height: 900px;  
+}
+
+.img{
+    background-image: url(../media/istockphoto-931466358-170667a.jpg);
+}
+
+/* .phone{
+    margin-bottom: 500px;
+    margin-left: 600px;
+} */
+
+ .txtmp{
+    width: 412px;
+    height: 264px;
+    margin-top: 100px;
+    font-family: 'Kenia';
+    left: 115px;
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+    font-style: normal;
+    line-height: 100px;
+    font-weight: 400;
+} 
+
+.txtsm{
+    position: absolute;
+    width: 290px;
+    height: 63px;
+    margin-top: 40px;
+    color: rgb(7, 7, 7);
+}  
+
+
+/* MAIN */
+.mainn{
+    background: #D53005;
+    width: 1390px;
+    height: 824px;
+}
+
+.txtmu{
+    color: white;
+    margin-left: 50px;
+    padding-top: 100px;
+}
+ 
+.but1{
+    position: absolute;
+    width: 380px;
+    height: 80px;
+    margin-left: 120px;
+    margin-top: 200px;
+    background-color: #D53005;
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+}
+
+.but2{
+    position: absolute;
+    width: 380px;
+    height: 80px;
+    margin-left: 120px;
+    margin-top: 400px;
+    background-color: #D53005;
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+}
+
+.abt{
+    width: 1390px;
+    height: 900px;
+    margin-left: 0px;
+    background: linear-gradient(180deg, #D53005 0%, #000000 6.04%);
+}
+
+.str{
+    width: 1390px;
+    height: 900px;
+    margin-left: 0px;
+    background-color: #D53005;
+
+}
+
+.win{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 200px;
+    border-radius: 40px;
+    background-color: rgba(2, 2, 2, 0.9);
+    color: white;
+}
+
+.mac{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 200px;
+    border-radius: 40px;
+    background-color: #E3E3E3;
+    color: rgb(6, 0, 0);
+}
+
+.macpro{
+    bottom: 0;
+    width: 849px;
+    height: 583px;
+    border: 20px black solid ;
+}
+
+.txtstr{
+    color: white;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.footer{
+    width: 1390px;
+    height: 336px;
+    left: 0px;
+    background: linear-gradient(180deg, #D53005 0%, #000000 4.01%);
+
+}
