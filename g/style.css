@@ -4,6 +4,7 @@ header{
 }
 
 .img{
+    background-size: 100%;
     background-image: url(../media/istockphoto-931466358-170667a.jpg);
 }
 
