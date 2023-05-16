@@ -1,17 +1,15 @@
 header{
     width: 1440px;
     height: 900px;  
-}
-
-.img{
-    background-size: 100%;
+    background-size: 1440px;
     background-image: url(../media/istockphoto-931466358-170667a.jpg);
 }
 
-/* .phone{
-    margin-bottom: 500px;
-    margin-left: 600px;
-} */
+
+ .img{
+    background-size: 100%;
+    background-image: url(../media/istockphoto-931466358-170667a.jpg);
+} 
 
  .txtmp{
     width: 412px;
@@ -124,4 +122,11 @@ header{
     left: 0px;
     background: linear-gradient(180deg, #D53005 0%, #000000 4.01%);
 
+}
+
+
+@media screen (max-width: 800px;) {
+    .phone{
+        display:none;
+}
 }
